@@ -7,13 +7,9 @@
  */
 
 import React, { Component } from 'react';
-import {Dimensions,} from 'react-native';
-import LoginScreen from './src/Container/login';
-import configureStore from "./src/Stores/";
+import LoginScreen from './src/Components/Vendor/loginComponent';
+import configureStore from "./src/Stores/Vendor/";
 import { Provider } from 'react-redux';
-
-const SCREEN_WIDTH = Dimensions.get('window').width;
-const SCREEN_HEIGHT = Dimensions.get('window').height;
 const store = configureStore();
 
 

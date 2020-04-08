@@ -1,42 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/muralitharan/Desktop/milk/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/muralitharan/Desktop/gud/gud/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/muralitharan/Desktop/milk/android/app/src/main/res/values/strings.xml",
+                    "source": "/Users/muralitharan/Desktop/gud/gud/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/values/values.xml",
                     "from": {
-                        "startLines": "1",
+                        "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "40",
-                        "endOffsets": "52"
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "461"
                     },
                     "to": {
-                        "startLines": "262",
+                        "startLines": "1402",
                         "startColumns": "4",
-                        "startOffsets": "17379",
-                        "endColumns": "40",
-                        "endOffsets": "17415"
-                    }
-                },
-                {
-                    "source": "/Users/muralitharan/Desktop/milk/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
+                        "startOffsets": "92296",
+                        "endLines": "1409",
                         "endColumns": "12",
-                        "endOffsets": "231"
-                    },
-                    "to": {
-                        "startLines": "326",
-                        "startColumns": "4",
-                        "startOffsets": "23415",
-                        "endLines": "329",
-                        "endColumns": "12",
-                        "endOffsets": "23592"
+                        "endOffsets": "92702"
                     }
                 },
                 {
@@ -59,20 +42,22 @@
                     }
                 },
                 {
-                    "source": "/Users/muralitharan/Desktop/milk/android/app/build/generated/res/resValues/debug/values/generated.xml",
+                    "source": "/Users/muralitharan/Desktop/gud/gud/android/app/src/main/res/values/styles.xml",
                     "from": {
-                        "startLines": "6,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "157,221",
-                        "endColumns": "63,68",
-                        "endOffsets": "216,285"
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "231"
                     },
                     "to": {
-                        "startLines": "219,220",
-                        "startColumns": "4,4",
-                        "startOffsets": "14345,14409",
-                        "endColumns": "63,68",
-                        "endOffsets": "14404,14473"
+                        "startLines": "326",
+                        "startColumns": "4",
+                        "startOffsets": "23415",
+                        "endLines": "329",
+                        "endColumns": "12",
+                        "endOffsets": "23592"
                     }
                 },
                 {
@@ -95,7 +80,24 @@
                     }
                 },
                 {
-                    "source": "/Users/muralitharan/.gradle/caches/transforms-2/files-2.1/fca4db9be88f62f13f88e21294c8a78f/res/values/values.xml",
+                    "source": "/Users/muralitharan/Desktop/gud/gud/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "40",
+                        "endOffsets": "52"
+                    },
+                    "to": {
+                        "startLines": "262",
+                        "startColumns": "4",
+                        "startOffsets": "17379",
+                        "endColumns": "40",
+                        "endOffsets": "17415"
+                    }
+                },
+                {
+                    "source": "/Users/muralitharan/.gradle/caches/transforms-2/files-2.1/a22d21d776f063a81febbf4c20449c88/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,71,74,77,80,83,87,91,94,97,100,103,104,105,112,119,122,125,128,134",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -133,22 +135,20 @@
                     }
                 },
                 {
-                    "source": "/Users/muralitharan/Desktop/milk/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/values/values.xml",
+                    "source": "/Users/muralitharan/Desktop/gud/gud/android/app/build/generated/res/resValues/debug/values/generated.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "9",
-                        "endColumns": "12",
-                        "endOffsets": "461"
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "157,221",
+                        "endColumns": "63,68",
+                        "endOffsets": "216,285"
                     },
                     "to": {
-                        "startLines": "1402",
-                        "startColumns": "4",
-                        "startOffsets": "92296",
-                        "endLines": "1409",
-                        "endColumns": "12",
-                        "endOffsets": "92702"
+                        "startLines": "219,220",
+                        "startColumns": "4,4",
+                        "startOffsets": "14345,14409",
+                        "endColumns": "63,68",
+                        "endOffsets": "14404,14473"
                     }
                 },
                 {

@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/muralitharan/Desktop/gud/gud/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Users/muralitharan/Desktop/gud/gud/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/muralitharan/Desktop/gud/gud/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Users/muralitharan/Desktop/gud/gud/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/muralitharan/Desktop/gud/gud/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Users/muralitharan/Desktop/gud/gud/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Folly/folly/Optional.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Folly/folly/Portability.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Folly/folly/CPortability.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Folly/folly/Traits.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Folly/folly/Utility.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/muralitharan/Desktop/gud/gud/ios/Pods/Folly/folly/CppAttributes.h
