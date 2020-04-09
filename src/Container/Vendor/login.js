@@ -6,12 +6,22 @@ import {
 } from 'react-native';
 import { connect } from 'react-redux'
 import * as loginAction from '../../Action/Vendor/loginAction'
-import * as constants from "../../Assets/Constants/constants";
+import * as constants from "../../Config/Constants/constants";
 import {Images} from  '../../Theme'
 import loginStyle from './loginStyles'
-import * as uiconstants from "../../Assets/Constants/uiconstants";
+import * as uiconstants from "../../Config/Constants/uiconstants";
+import NotificationPopup from 'react-native-push-notification-popup';
 
 
+
+// Render function
+const renderCustomPopup = ({ appIconSource, appTitle, timeText, title, body }) => (
+    <View>
+      <Text>{title}</Text>
+      <Text>{body}</Text>
+    </View>
+  );
+  
 
  class LoginScreen extends React.Component {
     constructor(props) {
@@ -36,15 +46,26 @@ import * as uiconstants from "../../Assets/Constants/uiconstants";
        this.props.dispatch(loginAction.login("abc",'iaidfias'));
        var error =  this.props.login.get(constants.LOGIN_ERROR);
        var chatdata = this.props.login.get(constants.LOGIN_DATA);
-       console.log("componentWillReceiveProps",error);
-       console.log("muralitharan" + error);
-       Alert.alert("comming soon  "+ error);
+      
+      this.popup.show({
+        onPress: function() {console.log('Pressed')},
+        appIconSource: Images.email,
+        appTitle: 'Some App',
+        timeText: 'Now',
+        title: 'csvasfsad World',
+        body: error,
+        background:"#ffff00",
+    
+        slideOutTime: 3000
+      });
+       // Toast.showWithGravity(error, Toast.LONG, Toast.TOP)
+    
+       // Alert.alert("comming soon  "+ error);
           
       } catch (error) {
           
       }
     }
-
 
 
 
@@ -132,6 +153,10 @@ import * as uiconstants from "../../Assets/Constants/uiconstants";
                             </View>
                         </View>
                     </View>
+                    <NotificationPopup
+            ref={ref => this.popup = ref}
+            renderPopupContent={renderCustomPopup} />
+
                 </ImageBackground>
             </SafeAreaView>
         );

@@ -7,13 +7,7 @@ export default  class LoginComponent extends React.Component{
 
     constructor(props) {
         super(props);
-        this.state = {
-            email: '',
-            password: '',
-            hidePassword: true,
-            userIsLoading: false,
-            userErrorMessage:"ssdfds",
-        }
+       
 
     }
 

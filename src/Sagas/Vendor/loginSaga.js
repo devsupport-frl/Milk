@@ -4,7 +4,7 @@
 
 
 import {call, put, take} from "redux-saga/effects";
-import * as constants from "../../Assets/Constants/constants";
+import * as constants from "../../Config/Constants/constants";
 import * as actions from "../../Action/Vendor/loginAction";
 
 

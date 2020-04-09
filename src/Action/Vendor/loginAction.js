@@ -3,7 +3,7 @@
  */
 
 
-import * as actions from "../../Assets/Constants/constants";
+import * as actions from "../../Config/Constants/constants";
 
 
 //  Login Action //

@@ -1,4 +1,4 @@
-import * as constants from "../../Assets/Constants/constants";
+import * as constants from "../../Config/Constants/constants";
 
 export default function loginReducer(state, action = {}) {
   switch (action.type) {
